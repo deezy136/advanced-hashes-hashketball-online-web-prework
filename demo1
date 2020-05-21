@@ -1,0 +1,50 @@
+# Write your code here!
+
+
+  
+  game1_hash = {  
+                  :home => {
+                          :team_name => "Brooklyn Nets",
+                          :colors => ["Black ", "White"],
+                          :players => {
+                                 :player_name => {"ALan" ,
+                                        :stats => {
+                                                :number =>[],
+                                                :shoe => [],
+                                                :points => [],
+                                                :rebounds => [],
+                                                :assists => [],
+                                                :steals => [],
+                                                :blocks => [],
+                                                :slam_dunks => []
+                                        }
+                          }
+                  },
+  
+                           
+    
+        
+                           
+                   :away => {
+                          :team_name => {},
+                          :colors => {},
+                          :players => {}
+                      
+                    }
+  }
+  
+
+  
+  def num_points_scored(player)
+    
+    
+    
+    end  
+
+
+
+
+
+
+
+
