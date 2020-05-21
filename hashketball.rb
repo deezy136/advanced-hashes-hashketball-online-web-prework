@@ -249,7 +249,10 @@ def player_with_most_steals_and_name(game)
   max_player[:name] == player_with_longest_name(game)
 end
 
-
+def most_points_scored
+  
+  
+end 
 
 
 
